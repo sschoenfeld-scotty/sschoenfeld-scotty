@@ -1,8 +1,12 @@
 # Scotty Schoenfeld
 
-I'm an enterprise GTM executive who uses AI systematically and develops disciplined reasoning systems for consequential decisions.
+I'm an enterprise GTM executive who uses AI heavily, including to reason through consequential problems. I don't outsource the judgment to it.
 
-My work starts with the business problem. I use existing AI models to challenge assumptions and test possible actions against evidence and operating experience. I remain responsible for the judgment.
+My work starts with the business problem. AI can get to a convincing answer fast, even when the reasoning hasn't earned that confidence. I deliberately put friction where the reasoning is most likely to jump too quickly, then move faster once the evidence is strong enough to support the decision.
+
+I'm not trying to make AI produce a different answer. I'm trying to make it earn the answer before I trust it.
+
+In commercial work, my GTM Diagnostic Framework governs the diagnosis and Full Stack pressure-tests the reasoning before I rely on it. I decide what I believe is supported, what remains uncertain, and what action I'm willing to stand behind.
 
 You can inspect cases and decision histories that show how reasoning changed a practical decision. The record includes failures and unresolved findings alongside successful work, with useful observations preserved even when they don't justify a framework change.
 
